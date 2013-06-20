@@ -20,5 +20,5 @@ p "Give me a verb: "
 verb_four = gets.chomp
 
 p "Today I went to the #{noun_one}. When I was at the #{noun_two}, I #{verb_one} a " +
-  "#{noun_three} and then I #{verb_two}. Afterwards, my #{adjective_one} #{noun_four}" +
+  "#{noun_three} and then I #{verb_two}. Afterwards, my #{adjective_one} #{noun_four} " +
   "#{verb_three} a #{noun_five} and #{verb_four}."
